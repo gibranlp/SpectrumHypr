@@ -1,0 +1,2 @@
+# SpectrumHypr
+SpectrumOS on hyperland
