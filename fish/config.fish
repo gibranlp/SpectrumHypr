@@ -32,7 +32,7 @@ alias podwhy 'poddl https://anchor.fm/s/89358408/podcast/rss /media/Music/Podcas
 alias podcensura 'poddl http://www.poderato.com/mesembriarecords/_feed/1 /media/Music/Podcasts/Radiocensura'
 alias ga 'git add .'
 alias gc 'git commit -m'
-alias gp 'gitt push'
+alias gp 'git push'
 
 set now (date +%s)
 set d1 (date +%s -d '2003-08-01')
