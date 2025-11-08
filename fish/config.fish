@@ -30,6 +30,9 @@ alias podacidez 'poddl https://anchor.fm/s/a90d4be4/podcast/rss /media/Music/Pod
 alias podcreepy 'poddl "https://www.patreon.com/rss/creepyenespanol?auth=g6v8v5ael8aEJm3MtDOSyuJ_NDPjJgTw" /media/Music/Podcasts/Creepy'
 alias podwhy 'poddl https://anchor.fm/s/89358408/podcast/rss /media/Music/Podcasts/WhyFiles'
 alias podcensura 'poddl http://www.poderato.com/mesembriarecords/_feed/1 /media/Music/Podcasts/Radiocensura'
+alias ga 'git add .'
+alias gc 'git commit -m'
+alias gp 'gitt push'
 
 set now (date +%s)
 set d1 (date +%s -d '2003-08-01')
